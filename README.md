@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Forensic-Walkthroughs-of-the-Inflection-Point-Narrative-Round-2
 This upload documents the mirroring of the Loka article, published only 8 minutes after my USPTO filing. Evidence highlights the timing gap, showing direct overlap between my protected IP and the public release. SHA-256 hashes included for verification.
